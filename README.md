@@ -6,5 +6,5 @@ using methods :
   1) Bag of Words
   2) stemming
   3) lemmatizing
-  4) detecting most frequent words and removing the 
+  4) detecting most frequent words and removing them
   5) count vectorizing
